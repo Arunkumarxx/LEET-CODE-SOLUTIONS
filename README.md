@@ -7,13 +7,11 @@ submissions to a GitHub repository.
 To use this repository effectively, follow these steps:
 
 1. Install LeetCode Hub:
-   - Visit https://github.com/davidkzeng/leetcode to get the latest information on LeetCode Hub installation and setup instructions.
+   - Visit https://github.com/arunbhardwaj/LeetHub-2.0?tab=readme-ov-file to get the latest information on LeetCode Hub installation and setup instructions.
 
 2. Configure LeetCode Hub:
    - Follow the instructions provided by LeetCode Hub to set up your GitHub repository for syncing.
-
-3. Clone this repository:
-   https://github.com/arunbhardwaj/LeetHub-2.0?tab=readme-ov-file
+  
 4. Add your LeetCode solutions:
    - Solve LeetCode problems on the LeetCode platform.
    - Submit your solutions on LeetCode.
