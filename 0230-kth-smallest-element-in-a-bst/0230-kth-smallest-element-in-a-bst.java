@@ -15,21 +15,23 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        Stack<TreeNode> stack =new Stack<>();
-        int i=0;
-        while(root!=null || !stack.isEmpty())
+        inOrderTraversal(root,k);
+        return ans;
+    }
+    int ans=-1;
+    int count=0;
+    private void inOrderTraversal(TreeNode root,int k)
+    {
+        if(root==null)
+        return;
+        inOrderTraversal(root.left,k);
+        ++count;
+        if(count==k)
         {
-            while(root!=null)
-            {
-                stack.push(root);
-                root=root.left;
-            }
-            root=stack.pop();
-            ++i;
-            if(i==k)
-            return root.val;
-            root=root.right;
+            ans=root.val;
+            return;
         }
-        return -1;
+        inOrderTraversal(root.right,k);
+
     }
 }
