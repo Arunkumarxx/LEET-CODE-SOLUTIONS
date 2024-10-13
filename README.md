@@ -30,3 +30,23 @@ To use this repository effectively, follow these steps:
    - It's a great way to showcase your problem-solving skills and collaborate with fellow programmers.
 
 Happy coding!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+<!---LeetCode Topics End-->
