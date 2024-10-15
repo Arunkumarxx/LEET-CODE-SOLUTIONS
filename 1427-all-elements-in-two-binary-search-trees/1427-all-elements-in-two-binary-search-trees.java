@@ -14,46 +14,39 @@
  * }
  */
 class Solution {
-   public List<Integer> getAllElements(TreeNode root1,TreeNode root2) {
-    return merge(root1,root2);
-}
+ int index1=0;
+List<Integer> result=new ArrayList<>();
 
-public List<Integer> merge(TreeNode root1,TreeNode root2) {
-    ArrayList<Integer> list1=new ArrayList<>();
-    ArrayList<Integer> list2=new ArrayList<>();
-    inOrderTraversal(root1,list1);
-    inOrderTraversal(root2,list2);
-    return mergeTwoList(list1,list2);
-}
-
-private List<Integer> mergeTwoList(List<Integer> list1,List<Integer> list2) {
-    ArrayList<Integer> res=new ArrayList<>();
-    int i=0,j=0;
-    int n1=list1.size();
-    int n2=list2.size();
-    while(i<n1&&j<n2) {
-        if(list1.get(i)<list2.get(j)) {
-            res.add(list1.get(i++));
-        } else if(list1.get(i)>list2.get(j)) {
-            res.add(list2.get(j++));
-        } else {
-            res.add(list1.get(i++));
-            res.add(list2.get(j++));
-        }
+public List<Integer> getAllElements(TreeNode bst1,TreeNode bst2) {
+    List<Integer> list1=new ArrayList<>();
+    inOrder(bst1,list1);
+    int size1=list1.size();
+    mergeLists(bst2,list1,size1);
+    while(index1<size1) {
+        result.add(list1.get(index1));
+        index1++;
     }
-    while(i<n1)
-        res.add(list1.get(i++));
-    while(j<n2)
-        res.add(list2.get(j++));
-    return res;
+    return result;
 }
 
-private void inOrderTraversal(TreeNode root,ArrayList<Integer> list) {
-    if(root==null)
+private void inOrder(TreeNode bst1,List<Integer> list1) {
+    if(bst1==null)
         return;
-    inOrderTraversal(root.left,list);
-    list.add(root.val);
-    inOrderTraversal(root.right,list);
+    inOrder(bst1.left,list1);
+    list1.add(bst1.val);
+    inOrder(bst1.right,list1);
+}
+
+private void mergeLists(TreeNode bst2,List<Integer> list1,int size1) {
+    if(bst2==null)
+        return;
+    mergeLists(bst2.left,list1,size1);
+    while(index1<size1&&list1.get(index1)<bst2.val) {
+        result.add(list1.get(index1));
+        index1++;
+    }
+    result.add(bst2.val);
+    mergeLists(bst2.right,list1,size1);
 }
 
 
