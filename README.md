@@ -36,17 +36,21 @@ Happy coding!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
