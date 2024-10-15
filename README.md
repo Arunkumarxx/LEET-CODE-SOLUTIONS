@@ -38,19 +38,27 @@ Happy coding!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Sorting
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
