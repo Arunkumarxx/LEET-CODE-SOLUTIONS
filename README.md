@@ -60,5 +60,26 @@ Happy coding!
 ## Sorting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Hash Table
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0778-reorganize-string) |
+## String
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0778-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Arunkumarxx/LEET-CODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
